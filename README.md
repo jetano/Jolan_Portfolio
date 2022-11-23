@@ -7,7 +7,7 @@ This project is about the relationship of the annealing time versus the absorban
 
 The measured absorbance values were then imported to Python for analysis and visualization. Here, I used numpy, pandas, and SciPy libraries for data manipulation and curve fitting. Then, I used matplotlib for data visualization.
 
-![](https://github.com/jetano/Jolan_Portfolio/blob/main/images/DecaySolABC.jpg)
+![](/images/DecaySolABC.jpg)
 
 ## Code and Resources Used
 **Python Version: ** 3.8.10
