@@ -12,3 +12,5 @@ The measured absorbance values were then imported to Python for analysis and vis
 ## Code and Resources Used
 **Python Version: ** 3.8.10
 **Packages: ** pandas, numpy, matplotlib, scipy
+
+theme: minima
