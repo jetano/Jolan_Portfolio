@@ -15,7 +15,17 @@ The measured absorbance values were then imported to Python for analysis and vis
 ![](/images/DecaySolABC.jpg)
 
 
-## [Project 2: Electronics Sales](https://github.com/jetano/electronicsales)
+## [Project 2: Dr. Semmelweis and the Discovery of Handwashing](https://github.com/jetano/handwash)
+
+This project is a reanalysis of the medical data of handwashing from Dr. Semmelweis (provided by Data Camp). Topics under this project include importing and cleaning data, data manipulation, visualization, and probability and statistics.
+
+![](/images/BefAftHandwash.jpg)
+
+## Code and Resources Used
+**Python Version:** 3.8.10
+
+
+## [Project 3: Electronics Sales](https://github.com/jetano/electronicsales)
 
 Fundamental data visualization exercise using sales data of electronics.
 
