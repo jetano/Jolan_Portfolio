@@ -19,6 +19,9 @@ The measured absorbance values were then imported to Python for analysis and vis
 
 Fundamental data visualization exercise using sales data of electronics.
 
+![](/images/linegraph.jpg)
+![](/images/horizontalbarg.jpg)
+
 ## Code and Resources Used
 **Python Version:** 3.8.10
 **Packages:** pandas, seaborn, matplotlib
