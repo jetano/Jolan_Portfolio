@@ -1,1 +1,5 @@
-theme: minima
+title: Jolan's Portfolio
+description: This site summarizes my projects in data analysis, data visualization, and machine learning.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
