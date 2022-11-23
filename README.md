@@ -1,4 +1,6 @@
-# Jolan Taño Portfolio
+# Jolan Taño
+
+[LinkedIn](https://www.linkedin.com/in/jolanetano/)
 
 ## [Project 1: Annealing Time Plots of Different Gel Formulas](https://github.com/jetano/annealing_decay)
 
