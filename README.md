@@ -1,4 +1,5 @@
-# Data Science and Data Analytics Portfolio
+# Jola E. Taño
+## Data Science and Data Analytics Portfolio
 
 # [Project 1: Annealing Time Plots of Different Gel Formulas](https://github.com/jetano/annealing_decay)
 
