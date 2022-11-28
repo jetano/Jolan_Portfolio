@@ -19,19 +19,18 @@ The measured absorbance values were then imported to Python for analysis and vis
 
 This project is a reanalysis of the medical data of handwashing from Dr. Semmelweis (provided by Data Camp). Topics under this project include importing and cleaning data, data manipulation, visualization, and probability and statistics.
 
-## Code and Resources Used
+### Code and Resources Used
 **Python Version:** 3.8.10
 **Packages:** pandas, matplotlib
 
 ![](/images/BefAftHandwash.jpg)
 
 
-
 ## [Electronics Sales](https://github.com/jetano/electronicsales)
 
 Fundamental data visualization exercise using sales data of electronics.
 
-## Code and Resources Used
+### Code and Resources Used
 **Python Version:** 3.8.10
 **Packages:** pandas, seaborn, matplotlib
 ![](/images/linegraph.jpg)
