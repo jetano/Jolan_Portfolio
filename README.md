@@ -9,11 +9,11 @@ This project highlights the exploratory data analysis (EDA) of survival using th
 Highlights:
 * Social class of passenger was significant in survival index. Wealthier passengers (i.e., those who had class 1 tickets) had higher survival than those who had class 3 tickets. This finding is consistent with both male and female passengers. In terms of gender, female passengers had higher survival than male.
 
-![](/Image/AgeDistSurv.jpg)
+![](https://github.com/jetano/TitanicEDA/blob/main/Image/SurvProbPClassGen.jpg)
 
 * The correlation heatmap of numerical variables revealed significant correlation between Fare and Survival.
 
-![](/Image/CorrHeatmap.jpg)
+![](https://github.com/jetano/TitanicEDA/blob/main/Image/CorrHeatmap.jpg)
 
 * Survival curve of the passenger age showed peak distributions between ages 0-5 and 20-35.
 
