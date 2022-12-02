@@ -9,7 +9,7 @@ This project highlights the exploratory data analysis (EDA) of survival using th
 Highlights:
 * Social class of passenger was significant in survival index. Wealthier passengers (i.e., those who had class 1 tickets) had higher survival than those who had class 3 tickets. This finding is consistent with both male and female passengers. In terms of gender, female passengers had higher survival than male.
 
-![](/Image/AgeDistSurv.jpg))
+![](/Image/AgeDistSurv.jpg)
 
 * The correlation heatmap of numerical variables revealed significant correlation between Fare and Survival.
 
