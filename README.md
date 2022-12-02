@@ -17,7 +17,7 @@ Highlights:
 
 * Survival curve of the passenger age showed peak distributions between ages 0-5 and 20-35.
 
-![](/Image/AgeDistSurv.jpg)
+![](https://github.com/jetano/TitanicEDA/blob/main/Image/AgeDistSurv.jpg)
 
 ## [Annealing Time Plots of Different Gel Formulas](https://github.com/jetano/annealing_decay)
 
