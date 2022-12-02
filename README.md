@@ -17,7 +17,7 @@ Highlights:
 
 * Survival curve of the passenger age showed peak distributions between ages 0-5 and 20-35.
 
-![](Image/AgeDistSurv.jpg)
+![](/Image/AgeDistSurv.jpg)
 
 ### Code and Resources Used
 **Python Version:** 3.8.2 (Jupyter Notebook IDE)
